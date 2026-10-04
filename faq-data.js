@@ -31,6 +31,26 @@ window.FAQ_DATA = {
     "products": {
       "name": "Planned Parenthood · Period products",
       "url": "https://www.plannedparenthood.org/learn/health-and-wellness/menstruation/what-are-menstrual-hygiene-products"
+    },
+    "nhsPeriods": {
+      "name": "NHS · Periods",
+      "url": "https://www.nhs.uk/conditions/periods/"
+    },
+    "nhsStart": {
+      "name": "NHS · Starting periods",
+      "url": "https://www.nhs.uk/conditions/periods/starting-periods/"
+    },
+    "owhCycle": {
+      "name": "Office on Women’s Health · Menstrual cycle",
+      "url": "https://womenshealth.gov/menstrual-cycle/your-menstrual-cycle"
+    },
+    "owhProblems": {
+      "name": "Office on Women’s Health · Period problems",
+      "url": "https://womenshealth.gov/menstrual-cycle/period-problems"
+    },
+    "owhPms": {
+      "name": "Office on Women’s Health · PMS",
+      "url": "https://womenshealth.gov/menstrual-cycle/premenstrual-syndrome"
     }
   },
   "checked": "2026-10-01",
@@ -380,6 +400,576 @@ window.FAQ_DATA = {
         "es": ""
       },
       "reviewStatus": "pending"
+    },
+    {
+      "id": "faq-20",
+      "category": "products",
+      "source": "cdc",
+      "en": {
+        "q": "Do I need scented pads or tampons?",
+        "a": "No. Fragrances can irritate skin. Choose unscented products."
+      },
+      "es": {
+        "q": "¿Necesito productos perfumados?",
+        "a": "No. Los perfumes pueden irritar la piel. Elige productos sin perfume."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-21",
+      "category": "products",
+      "source": "cdc",
+      "en": {
+        "q": "Should I wash inside my vagina?",
+        "a": "No. It cleans itself. Rinse the vulva with water."
+      },
+      "es": {
+        "q": "¿Debo lavar el interior de la vagina?",
+        "a": "No. Se limpia sola. Enjuaga la vulva con agua."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-22",
+      "category": "products",
+      "source": "cdc",
+      "en": {
+        "q": "How do I wash period underwear?",
+        "a": "Follow its cleaning instructions; many types are machine washable."
+      },
+      "es": {
+        "q": "¿Cómo lavo la ropa interior menstrual?",
+        "a": "Sigue las instrucciones; muchos modelos se lavan a máquina."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-23",
+      "category": "products",
+      "source": "cdc",
+      "en": {
+        "q": "Which direction should I wipe?",
+        "a": "Wipe from front to back after using the toilet."
+      },
+      "es": {
+        "q": "¿En qué dirección debo limpiarme?",
+        "a": "Límpiate de adelante hacia atrás después de usar el baño."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-24",
+      "category": "products",
+      "source": "nhsPeriods",
+      "en": {
+        "q": "What is a pantyliner?",
+        "a": "A thinner pad for very light flow."
+      },
+      "es": {
+        "q": "¿Qué es un protector diario?",
+        "a": "Una toalla más fina para flujo muy ligero."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-25",
+      "category": "products",
+      "source": "nhsPeriods",
+      "en": {
+        "q": "How does a menstrual cup work?",
+        "a": "It sits in the vagina and collects blood rather than absorbing it."
+      },
+      "es": {
+        "q": "¿Cómo funciona una copa menstrual?",
+        "a": "Se coloca en la vagina y recoge sangre en vez de absorberla."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-26",
+      "category": "products",
+      "source": "nhsPeriods",
+      "en": {
+        "q": "Are reusable pads an option?",
+        "a": "Yes. Washable pads are available; follow their care instructions."
+      },
+      "es": {
+        "q": "¿Existen toallas reutilizables?",
+        "a": "Sí. Existen toallas lavables; sigue sus instrucciones de cuidado."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-27",
+      "category": "products",
+      "source": "nhsPeriods",
+      "en": {
+        "q": "How does a pad stay in place?",
+        "a": "Disposable pads have an adhesive side that attaches to underwear."
+      },
+      "es": {
+        "q": "¿Cómo se sujeta una toalla sanitaria?",
+        "a": "Las desechables tienen un lado adhesivo que se pega a la ropa interior."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-28",
+      "category": "basics",
+      "source": "nhsPeriods",
+      "en": {
+        "q": "Can period blood look brown or pink?",
+        "a": "Yes, especially on lighter days. Color alone cannot assess your health."
+      },
+      "es": {
+        "q": "¿Puede la sangre verse marrón o rosada?",
+        "a": "Sí, especialmente en días de poco flujo. El color solo no evalúa tu salud."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-29",
+      "category": "basics",
+      "source": "nhsPeriods",
+      "en": {
+        "q": "Is flow the same every day?",
+        "a": "No. Bleeding often peaks during the first two days."
+      },
+      "es": {
+        "q": "¿El flujo es igual todos los días?",
+        "a": "No. El sangrado suele ser mayor los primeros dos días."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-30",
+      "category": "basics",
+      "source": "nhsStart",
+      "en": {
+        "q": "How can I prepare for my first period?",
+        "a": "Talk with a trusted adult and carry spare period products."
+      },
+      "es": {
+        "q": "¿Cómo me preparo para mi primera menstruación?",
+        "a": "Habla con un adulto de confianza y lleva productos de repuesto."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-31",
+      "category": "basics",
+      "source": "nhsStart",
+      "en": {
+        "q": "What if my period starts at school?",
+        "a": "Ask a teacher or school nurse for a pad or tampon."
+      },
+      "es": {
+        "q": "¿Qué hago si empieza en la escuela?",
+        "a": "Pide una toalla o tampón a un docente o al personal de enfermería."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-32",
+      "category": "basics",
+      "source": "nhsStart",
+      "en": {
+        "q": "What if blood leaks onto my clothes?",
+        "a": "Carry spare underwear. A sweatshirt around your waist can cover stains temporarily."
+      },
+      "es": {
+        "q": "¿Qué hago si mancho mi ropa?",
+        "a": "Lleva ropa interior de repuesto. Una sudadera a la cintura puede cubrir manchas temporalmente."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-33",
+      "category": "products",
+      "source": "nhsStart",
+      "en": {
+        "q": "Do I have to start with tampons?",
+        "a": "No. Pads are an option; choose a product you feel comfortable using."
+      },
+      "es": {
+        "q": "¿Tengo que empezar con tampones?",
+        "a": "No. Puedes usar toallas; elige un producto con el que te sientas cómoda."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-34",
+      "category": "care",
+      "source": "nhsStart",
+      "en": {
+        "q": "What if I cannot remove a tampon?",
+        "a": "Contact a clinician or sexual-health clinic for removal."
+      },
+      "es": {
+        "q": "¿Qué hago si no puedo sacar un tampón?",
+        "a": "Acude a un profesional o clínica de salud sexual para retirarlo."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-35",
+      "category": "basics",
+      "source": "nhsStart",
+      "en": {
+        "q": "Should people who do not menstruate learn about periods?",
+        "a": "Yes. Understanding periods helps people offer informed support."
+      },
+      "es": {
+        "q": "¿Deben aprender quienes no menstrúan?",
+        "a": "Sí. Comprender la menstruación ayuda a ofrecer apoyo informado."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-36",
+      "category": "basics",
+      "source": "owhCycle",
+      "en": {
+        "q": "What is ovulation?",
+        "a": "It is the release of an egg from an ovary."
+      },
+      "es": {
+        "q": "¿Qué es la ovulación?",
+        "a": "Es la liberación de un óvulo de un ovario."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-37",
+      "category": "basics",
+      "source": "owhCycle",
+      "en": {
+        "q": "Are hormones involved in periods?",
+        "a": "Yes. Estrogen and progesterone changes help control the cycle."
+      },
+      "es": {
+        "q": "¿Las hormonas influyen en la menstruación?",
+        "a": "Sí. Los cambios de estrógeno y progesterona ayudan a controlar el ciclo."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-38",
+      "category": "basics",
+      "source": "owhCycle",
+      "en": {
+        "q": "Can early cycles be irregular?",
+        "a": "Yes, in the first few years. Discuss persistent irregularity or concerns with a clinician."
+      },
+      "es": {
+        "q": "¿Pueden ser irregulares los primeros ciclos?",
+        "a": "Sí, durante los primeros años. Consulta sobre irregularidades persistentes o inquietudes."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-39",
+      "category": "care",
+      "source": "owhCycle",
+      "en": {
+        "q": "What if I have not started periods by 15?",
+        "a": "Arrange a clinician visit to discuss development and possible causes."
+      },
+      "es": {
+        "q": "¿Y si no he menstruado a los 15?",
+        "a": "Pide una consulta para hablar del desarrollo y las posibles causas."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-40",
+      "category": "care",
+      "source": "owhCycle",
+      "en": {
+        "q": "What if periods stop for three months?",
+        "a": "If not pregnant or breastfeeding, contact a clinician. Pregnancy is one possible cause."
+      },
+      "es": {
+        "q": "¿Y si se detienen por tres meses?",
+        "a": "Si no estás embarazada ni amamantando, consulta. El embarazo es una posible causa."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-41",
+      "category": "comfort",
+      "source": "owhProblems",
+      "en": {
+        "q": "What does dysmenorrhea mean?",
+        "a": "It means menstrual pain."
+      },
+      "es": {
+        "q": "¿Qué significa dismenorrea?",
+        "a": "Significa dolor menstrual."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-42",
+      "category": "comfort",
+      "source": "owhProblems",
+      "en": {
+        "q": "Why can the uterus cause cramps?",
+        "a": "Its muscles contract to help shed the lining."
+      },
+      "es": {
+        "q": "¿Por qué el útero causa cólicos?",
+        "a": "Sus músculos se contraen para expulsar el revestimiento."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-43",
+      "category": "care",
+      "source": "owhProblems",
+      "en": {
+        "q": "Should I mention large blood clots?",
+        "a": "Yes. Tell a clinician about clots larger than a U.S. quarter."
+      },
+      "es": {
+        "q": "¿Debo mencionar coágulos grandes?",
+        "a": "Sí. Informa sobre coágulos mayores que una moneda estadounidense de 25 centavos."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-44",
+      "category": "care",
+      "source": "owhProblems",
+      "en": {
+        "q": "Does pelvic pain between periods need checking?",
+        "a": "Yes. Discuss pain outside your period with a clinician."
+      },
+      "es": {
+        "q": "¿Debo consultar por dolor pélvico entre menstruaciones?",
+        "a": "Sí. Consulta sobre dolor fuera de la menstruación."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-45",
+      "category": "basics",
+      "source": "owhProblems",
+      "en": {
+        "q": "Can thyroid problems affect periods?",
+        "a": "Yes. Thyroid disorders can affect cycles; a clinician must assess the cause."
+      },
+      "es": {
+        "q": "¿La tiroides puede afectar la menstruación?",
+        "a": "Sí. Los trastornos tiroideos pueden afectar los ciclos; un profesional debe evaluar la causa."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-46",
+      "category": "comfort",
+      "source": "owhPms",
+      "en": {
+        "q": "Does everyone get PMS?",
+        "a": "No. Some have no symptoms or only mild ones."
+      },
+      "es": {
+        "q": "¿Todas las personas tienen síndrome premenstrual?",
+        "a": "No. Algunas no tienen síntomas o solo tienen síntomas leves."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-47",
+      "category": "comfort",
+      "source": "owhPms",
+      "en": {
+        "q": "Can PMS affect sleep or concentration?",
+        "a": "Yes. Both can change before a period."
+      },
+      "es": {
+        "q": "¿Puede afectar el sueño o la concentración?",
+        "a": "Sí. Ambos pueden cambiar antes de menstruar."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-48",
+      "category": "comfort",
+      "source": "owhPms",
+      "en": {
+        "q": "Can PMS include breast tenderness?",
+        "a": "Yes. Tender or swollen breasts can occur before a period."
+      },
+      "es": {
+        "q": "¿Puede causar sensibilidad en los senos?",
+        "a": "Sí. Puede haber sensibilidad o hinchazón antes de menstruar."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
+    },
+    {
+      "id": "faq-49",
+      "category": "care",
+      "source": "owhPms",
+      "en": {
+        "q": "When should I discuss mood symptoms with a clinician?",
+        "a": "When they bother you or affect daily life. Track their timing."
+      },
+      "es": {
+        "q": "¿Cuándo consulto sobre síntomas emocionales?",
+        "a": "Cuando te molestan o afectan tu vida diaria. Anota cuándo aparecen."
+      },
+      "keywords": {
+        "en": "",
+        "es": ""
+      },
+      "reviewStatus": "pending",
+      "sourceChecked": "2026-10-04"
     }
   ]
 };
