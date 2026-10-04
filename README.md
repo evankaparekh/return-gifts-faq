@@ -6,7 +6,7 @@ A mobile-friendly, English/Spanish menstrual-health FAQ. Static HTML, CSS, and J
 
 ## Features
 
-- 19 source-linked questions, searchable by words in questions and answers
+- 49 source-linked questions, searchable by words in questions and answers
 - Five topic filters, English/Spanish interface, expandable answers
 - Always-visible care guidance; no symptom assessment or diagnosis
 - No generated medical answers; unmatched searches produce an explicit empty state
@@ -31,7 +31,7 @@ Search matches all entered words within the chosen language and topic, ignoring 
 
 ## Sources and review
 
-See `CONTENT_REVIEW.md` for the source inventory, access limitations, and approval process. Source-check date: October 1, 2026. This date is not a clinician review date. Spanish is a draft translation, not an official translation of the cited organizations.
+See `CONTENT_REVIEW.md` for the source inventory, access limitations, and approval process. Source-check dates: October 1, 2026 (original questions), and October 4, 2026 (30 new questions). This date is not a clinician review date. Spanish is a draft translation, not an official translation of the cited organizations.
 
 ## Privacy
 
