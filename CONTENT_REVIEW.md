@@ -41,3 +41,19 @@ Review date: pending
 Next review: pending
 
 Corrections: pending
+
+## October 4, 2026 expansion
+
+Added 30 bilingual FAQs, IDs faq-20 through faq-49 (49 total). All remain pending medical and Spanish review. Original items retain their October 1 source-check date; additions use October 4.
+
+Additional sources retrieved in full:
+
+- NHS, Periods: https://www.nhs.uk/conditions/periods/
+- NHS, Starting your periods: https://www.nhs.uk/conditions/periods/starting-periods/
+- Office on Women’s Health, Your menstrual cycle: https://womenshealth.gov/menstrual-cycle/your-menstrual-cycle
+- Office on Women’s Health, Period problems: https://womenshealth.gov/menstrual-cycle/period-problems
+- Office on Women’s Health, PMS: https://womenshealth.gov/menstrual-cycle/premenstrual-syndrome
+
+CDC menstrual hygiene was rechecked for the new hygiene questions. NHS pages provide educational information; existing care routes and emergency-number guidance remain U.S.-focused. The NHS starting-periods page displayed an overdue next-review date (January 2026); its educational content is still pending professional verification here.
+
+Validation: 30 additions, unique English question text and IDs, English/Spanish answers present, all source references resolve, all review states pending. No diagnosis or personalized treatment recommendations added.
